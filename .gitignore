@@ -1,0 +1,4 @@
+*.gemspec
+config/
+.idea/
+*.gem

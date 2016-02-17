@@ -1,6 +1,8 @@
 Mobile Active Ruby Gem Sender
 =============================
 
+[RubyGems page](https://rubygems.org/gems/mobak)
+
 ##Install gem:
 
 ```gem install mobak```

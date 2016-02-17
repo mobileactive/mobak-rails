@@ -1,4 +1,4 @@
-Mobile Avtive Ruby Gem Sender
+Mobile Active Ruby Gem Sender
 =============================
 
 ##Install gem:

@@ -1,4 +1,4 @@
-Mpbile Avtive Ruby Gem Sender
+Mobile Avtive Ruby Gem Sender
 =============================
 
 ##Install gem:
@@ -8,7 +8,7 @@ Mpbile Avtive Ruby Gem Sender
 
 ##Add configuration folder and file
 
-```config/initializers/mobak.rb```:
+```config/initializers/mobak.rb```
 
 ```ruby
 Mobak.configure do |config|
@@ -18,7 +18,7 @@ end
 ```
 
 ##Sending message:
-
+gu
 ```ruby
 require 'mobak'
 

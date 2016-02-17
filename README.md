@@ -1,7 +1,7 @@
 Mobile Active Ruby Gem Sender
 =============================
 
-[RubyGems page](https://rubygems.org/gems/mobak)
+[![Gem Version](https://badge.fury.io/rb/mobak.svg)](https://badge.fury.io/rb/mobak)
 
 ##Install gem:
 
